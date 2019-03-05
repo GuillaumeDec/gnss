@@ -2,7 +2,7 @@
 - Bootstrap filter
 - basic resampling
 
-Guillaume D.
+Guillaume D.,  March 2019
 
 
 # License and source
